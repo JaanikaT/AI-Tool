@@ -1,0 +1,39 @@
+<svg width="22" height="20" viewBox="0 0 22 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="22" height="20" fill="#1E1E1E"/>
+<g id="AI tool">
+<rect width="1440" height="9208" transform="translate(-307 -6141)" fill="#01000E"/>
+<g id="section_testimonial" clip-path="url(#clip0_0_1)">
+<g id="padding-global" clip-path="url(#clip1_0_1)">
+<g id="container-large" clip-path="url(#clip2_0_1)">
+<g id="padding-section-medium">
+<g id="testimonial_component">
+<g id="testimonial_content">
+<g id="testimonial_column">
+<g id="testimonial_card">
+<rect x="-227" y="-218.188" width="405.333" height="284" rx="30" fill="#181924"/>
+<g id="author_component">
+<g id="Stars">
+<path id="Vector" d="M10.8967 14.8931L4.6179 19.0875L6.83332 12.0584L0.738251 7.62193L8.38646 7.4722L10.8967 0.5354L13.4091 7.4722L21.0573 7.62193L14.9601 12.0584L17.1755 19.0875L10.8967 14.8931Z" fill="#FFC46C"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="1440" height="650" fill="white" transform="translate(-307 -424.188)"/>
+</clipPath>
+<clipPath id="clip1_0_1">
+<rect width="1440" height="650" fill="white" transform="translate(-307 -424.188)"/>
+</clipPath>
+<clipPath id="clip2_0_1">
+<rect width="1280" height="650" fill="white" transform="translate(-227 -424.188)"/>
+</clipPath>
+</defs>
+</svg>
